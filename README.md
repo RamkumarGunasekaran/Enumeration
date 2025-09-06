@@ -1,6 +1,6 @@
 # Explore Google hacking and enumeration 
 ### NAME: RAMKUMAR G
-### REGISTER NUMBER:212223220084
+### REGISTER NUMBER: 212223220084
 # AIM:
 
 To use Google for gathering information and perform enumeration of targets
